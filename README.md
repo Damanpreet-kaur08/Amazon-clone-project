@@ -1,3 +1,4 @@
 # Amazon-clone-project
-this is my first project
-author- Damanpreet kaur
+This is my first project.
+<br>
+Author- Damanpreet kaur
